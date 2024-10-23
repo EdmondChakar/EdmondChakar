@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdmondChakar
 - I'm currently studying computer and communications engineering
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning CPP
 - 📫 How to reach me: edmondchakar@gmail.com
 
 <!---
